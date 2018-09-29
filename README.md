@@ -2,7 +2,7 @@
 
 A simple Java Application that lets you manually select control statements and create a block. This then returns the Big O notation for that block.
 
-For Example: 
+An example block: 
 
 ```
 For 
